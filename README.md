@@ -9,7 +9,7 @@
 
 HW4 consists of two parts. 
 
-[Part 1](https://www.gradescope.com) Login into gradescope and find HW4 - Part 1 and submit your answers.
+[Part 1](https://www.gradescope.com) Login into gradescope and find assignment named **HW4 - Part 1** and submit your answers.
 
 [Part 2](./part_2.md) is a written task for explain access path wth `EXPLAIN` keyword in instabase.
 
