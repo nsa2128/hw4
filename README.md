@@ -1,5 +1,5 @@
 # hw4
-## COMS 4111, Fall 19
+## COMS 4111, Fall 18
 
 * Assigned: 11/15 Thur
 * Due: 11/29 Thur, 10:00 AM
