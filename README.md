@@ -1,11 +1,12 @@
 # hw4
-## COMS 4111, 19Fall
+## COMS 4111, Fall 19
 
 * Assigned: 11/15 Thur
-
 * Due: 11/29 Thur, 10:00 AM
-
 * Value: 3.75% of your grade
+* Submission:
+    * Part 1: via Gradescope
+    * Part 2: via Instabase
 
 HW4 consists of two parts. 
 
